@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    border-radius: #FFF;
+    background-image: url(image/aissa.jpg);
+    background-image: linear-gradient(to right,#e2119c,#22df90);
+    background-position: center;
+    background-size:cover ;
+    justify-content: center;
+    height:100vh;
+    padding: 0;
+    margin: 0;
+    
+}
+.login{
+    text-align:left;
+    background-position: left;
+    background-color: #ffffff;
+    width:  500px;
+    height: 95vh;
+    padding: 1px;
+    left:   16%;
+    right: 8%;
+    top: 3%;
+    right: 150.107px;
+    position: absolute;
+    background-image: url(image/aissa.jpg);
+    background:#FFF;
+    border-radius: 5%;
+    border: 4px solid #FFF;
+
+}
+
+.login button{
+    width: 80%;
+    border-radius: 0%;
+    position: center;
+
+    
+}
+ 
+
+
+.input{
+    border-radius: 5px;
+    Width: 50%;
+}
+
+.login h1{
+    margin: 5px;
+    padding: 10px;
+    height: 2%;
+    padding: 5px;
+    background-color: #FFF;
+}  
+
+.row{
+    opacity: 40%;
+    background-image: url(image/aissa.jpg);
+    background-image: linear-gradient(to right,#1ebe7c);
+    background-position: right;
+    text-align: center;
+    text-decoration-color: #ffffff;
+    background: #037043 ;
+    border-radius: 1%;
+    height: 100vh;
+     width: 500px ;
+     top: 1%;
+    padding: 0;
+    margin: 0;
+    right: 30.107px;
+    position: absolute;
+}
+.row p{
+    color:#FFF;
+}
+.row h1{
+    color:#FFF;
+}
